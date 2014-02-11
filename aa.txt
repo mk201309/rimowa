@@ -1,3 +1,0 @@
-beo test
-
-beo test2
